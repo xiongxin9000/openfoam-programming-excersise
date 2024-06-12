@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "blockMeshDict": "jsonc",
+        "myinterFoam.C": "cpp"
+    }
+}

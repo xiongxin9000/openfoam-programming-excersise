@@ -1,0 +1,3 @@
+xin-Newmark/xinNewmark.C
+
+LIB = $(FOAM_USER_LIBBIN)/libmysixDoFRigidBodyMotion

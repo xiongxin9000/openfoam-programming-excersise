@@ -1,0 +1,4 @@
+SOURCE = \
+mysimple.C \
+
+# sources

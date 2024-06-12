@@ -1,0 +1,4 @@
+SOURCE = \
+myinterFoam.C \
+
+# sources

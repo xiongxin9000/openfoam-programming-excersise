@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "blockMeshDict": "jsonc",
+        "mybc.C": "cpp",
+        "mybcpatchfield.C": "cpp"
+    }
+}

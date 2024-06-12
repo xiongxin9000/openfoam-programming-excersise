@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "blockMeshDict": "jsonc",
+        "sprayDyMFoam.C": "cpp",
+        "mysprayDyMFoam.C": "cpp"
+    }
+}

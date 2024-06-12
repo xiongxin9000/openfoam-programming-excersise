@@ -1,0 +1,7 @@
+xin-first-openfoam-solver.C
+
+EXE = $(FOAM_USER_APPBIN)/xin-first-openfoam-solver
+
+
+
+

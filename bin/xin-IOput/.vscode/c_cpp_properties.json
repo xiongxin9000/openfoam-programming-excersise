@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/lib/openfoam/openfoam2306/src",
+                "/usr/lib/openfoam/openfoam2306/applications",
+                "/usr/lib/openfoam/openfoam2306/**",
+                "~/openfoam2306debug/OpenFOAM-v2306/build/linux64GccDPInt32Debug"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

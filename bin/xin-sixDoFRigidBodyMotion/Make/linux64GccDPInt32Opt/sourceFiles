@@ -1,0 +1,4 @@
+SOURCE = \
+xin-Newmark/xinNewmark.C \
+
+# sources
